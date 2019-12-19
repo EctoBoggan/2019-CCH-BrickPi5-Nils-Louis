@@ -6,7 +6,7 @@ Ajouter un système électronique à un jeu de société classique à l'aide d'u
 
 Description du projet (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/wiki
 
-Notre environnement de développement (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/wiki/Environnement-de-d%C3%A9v
+Notre environnement de développement (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/wiki/Env.-de-d%C3%A9veloppement
 
 Les jeux de tests (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/wiki/Jeu-de-tests
 
