@@ -1,5 +1,7 @@
 '''''''''''''''''''''''''''''''''
-        PROGRAME PRINCIPAL
+        PROGRAME DE TEST
+   PERMET DE TESTER DES FONCTIONS 
+ FACILEMENT AVEC DE LES IMPLÉMENTER
 '''''''''''''''''''''''''''''''''
 from __future__ import print_function # utiliser Py3 mais le rendre compatible avec Py2
 from __future__ import division       #                           ''
