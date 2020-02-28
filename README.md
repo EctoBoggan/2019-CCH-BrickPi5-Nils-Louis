@@ -8,6 +8,8 @@ Description du projet (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5
 
 Notre environnement de développement (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/wiki/Env.-de-d%C3%A9veloppement
 
+Ordinogramme (pdf) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/blob/master/Ordinograme.pdf
+
 Les jeux de tests (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/wiki/Jeu-de-tests
 
 Ressources (wiki) : https://github.com/divtec-cejef/2019-CCH-BrickPi5-Nils-Louis/wiki/Ressources
